@@ -1,6 +1,6 @@
-# GSRSD's Vocabularies
+# GSWA's Vocabularies
 
-This repository contains the source files of the Geological Survey and Resource Strategy Division of Western Australia ([GSRSD](https://www.dmp.wa.gov.au/Geological-Survey/Geological-Survey-262.aspx)). 
+This repository contains the source files of the Geological Survey of Western Australia ([GSWA](https://www.dmp.wa.gov.au/Geological-Survey/Geological-Survey-262.aspx)). 
 
 These vocabularies are presented as [Simple Knowledge Organization System (SKOS)](https://www.w3.org/TR/skos-reference/) vocabularies.
 
